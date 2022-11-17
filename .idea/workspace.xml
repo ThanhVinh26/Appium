@@ -4,15 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a405f769-8dc0-465a-9360-9e8de6dcca94" name="Changes" comment="labb_15">
-      <change afterPath="$PROJECT_DIR$/src/test/java/src/api/Forms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/src/api/Hybrid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/src/api/ScreenShot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/src/api/Swipe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/src/context/Contexts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/src/context/WaitContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="a405f769-8dc0-465a-9360-9e8de6dcca94" name="Changes" comment="labb_16">
+      <change afterPath="$PROJECT_DIR$/src/test/java/src/api/Back.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/src/api/HandleMuntil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/src/api/LoginMod01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/src/driver/AppPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/src/modle/component/global/Bottomnav.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/src/modle/component/login/LoginFormCom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/src/modle/component/login/LoginFormComMod02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/src/modle/pages/LoginScreenmode01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/src/modle/pages/LoginScreenmode02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/src/test_flow/BaseFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/src/test_flow/authen/LoinFlow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/src/driver/DriverF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/src/driver/DriverF.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667011187957</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="labb_16">
+      <created>1667619860388</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667619860388</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +158,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lab_15" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab_15" />
+    <MESSAGE value="labb_16" />
+    <option name="LAST_COMMIT_MESSAGE" value="labb_16" />
   </component>
 </project>
